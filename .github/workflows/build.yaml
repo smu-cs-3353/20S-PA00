@@ -1,9 +1,9 @@
-name: S20-PA01-SentimentAnalysis
+name: 20S-3353-PA00
 
 on: [push]
 
 env:
-  EXE_NAME: SentimentAnalyzer
+  EXE_NAME: SampleProject
   ### ***** Students!  Put the name of the input files and output files here.
   ###   List them in the order that they need to appear in Argv param of main.
   ###   Output Files will follow input files
